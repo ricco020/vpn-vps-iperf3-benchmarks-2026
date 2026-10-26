@@ -23,7 +23,7 @@ because of user-space per-packet overhead. Numbers vary by provider, region and
 kernel - run your own.
 
 ## Reference
-Self-host VPN deployment guides and configs: https://www.vpnsmith.com
+Self-host VPN deployment guides and configs: https://www.vpnsmith.com?src=github&ref=gh-vpn-vps-iperf3-be
 
 ## License
 CC BY 4.0
